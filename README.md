@@ -1,2 +1,2 @@
-# HWB_bioinformatic
+# hwb
 Guten Tag!
